@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SundialActivity!</string>
+    <string name="app_name">Sundial</string>
+
+</resources>
